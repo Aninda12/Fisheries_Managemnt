@@ -56,6 +56,7 @@ This decentralized blockchain application provides a comprehensive solution for 
 
   ```plaintext
   PRIVATE_KEY=<your-private-key>
+  
   ```
 
   Replace `<your-private-key>` with the private key of your Ethereum wallet. This key will be used for signing transactions during deployment.
@@ -213,3 +214,4 @@ Test scripts are located in the `test` directory.
 ## 📄 License
 
 This project is licensed under the **Apache License**. See the [LICENSE](LICENSE) file for details.
+
